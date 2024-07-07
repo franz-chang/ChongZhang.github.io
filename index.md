@@ -46,6 +46,13 @@ and Multi-Agent Systems at the same time.
 - [Better Sampling, towards Better End-to-end Small Object Detection](https://www.researchgate.net/profile/Chong-Zhang-93/publication/380637118_Better_Sampling_towards_Better_End-to-end_Small_Object_Detection/links/6646e0510b0d2845743b8983/Better-Sampling-towards-Better-End-to-end-Small-Object-Detection.pdf)(**CASA2024**)
 
   Zile Huang, **Chong Zhang**, Mingyu Jin, Fangyu Wu, Chengzhi Liu, Xiaobo Jin
+## Services
+
+### Conference Reviewers
+- [The 30th International Conference on Neural Information Processing](http://iconip2023.org/) 
+
+- [The 33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/)
+### Journal Reviewers
 
 
-{% include_relative _includes/services.md %}
+## Patents
