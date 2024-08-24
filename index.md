@@ -16,6 +16,8 @@ and Multi-Agent Systems at the same time.
 
 ## News
 
+- **[Aug. 2024]** Our paper **Accelerating Attentional Generative Adversarial Networks with Sampling Blocks** is accepted to **ICONIP 2024**.
+- **[Jul. 2024]** Our paper **Large Vision-Language Models Security** wins **Best Survey Paper** in FCS 2024!
 - **[Jul. 2024]** Our paper about **Target-driven Attack** for LLMs is accepted to **ECAI 2024**!
 - **[Jun. 2024]** We participated in the **IJCNN 2024** Oral online, which was held in Yokohama, Japan!
 - **[Jun. 2024]** Our paper about **Attention-Based Cross-Modal Representation Integration Framework** is accepted to **ICANN 2024**!
@@ -30,6 +32,9 @@ and Multi-Agent Systems at the same time.
 - [Target-driven Attack for Large Language Models]()(**ECAI2024**)
 
   **Chong Zhang**🌟, Mingyu Jin🌟, Dong Shu, Taowen Wang, Xiao-Bo Jin
+- [Accelerating Attentional Generative Adversarial Networks with Sampling Blocks]() (**ICONIP 2024**)
+
+  **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Xi Yang, Xiao-Bo Jin
 
 - [Large Vision-Language Model Security: A Survey]() (**FCS 2024**) 
 
@@ -49,6 +54,8 @@ and Multi-Agent Systems at the same time.
 ## Services
 
 ### Conference Reviewers
+- [The 31th International Conference on Neural Information Processing](https://iconip2024.org/)
+- 
 - [The 30th International Conference on Neural Information Processing](http://iconip2023.org/) 
 
 - [The 33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/)
