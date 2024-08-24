@@ -16,7 +16,8 @@ and Multi-Agent Systems at the same time.
 
 ## News
 
-- **[Aug. 2024]** Our paper **Accelerating Attentional Generative Adversarial Networks with Sampling Blocks** is accepted to **ICONIP 2024**.
+- **[Aug. 2024]** Our paper **Accelerating Attentional Generative Adversarial Networks with Sampling Blocks**
+  is accepted to **ICONIP 2024**.
 - **[Jul. 2024]** Our paper **Large Vision-Language Models Security** wins **Best Survey Paper** in FCS 2024!
 - **[Jul. 2024]** Our paper about **Target-driven Attack** for LLMs is accepted to **ECAI 2024**!
 - **[Jun. 2024]** We participated in the **IJCNN 2024** Oral online, which was held in Yokohama, Japan!
