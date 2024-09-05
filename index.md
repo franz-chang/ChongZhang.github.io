@@ -15,7 +15,7 @@ and Multi-Agent Systems at the same time.
 - **Multi-Agent Systems**
 
 ## News
-
+- **[Sept. 2024]** Our paper **Knowledge Graph Large Language Model (KG-LLM) for Link Prediction** is accepted to **ACML 2024**.
 - **[Aug. 2024]** Our paper **Accelerating Attentional Generative Adversarial Networks with Sampling Blocks**
   is accepted to **ICONIP 2024**.
 - **[Jul. 2024]** Our paper **Large Vision-Language Models Security** wins **Best Survey Paper** in FCS 2024!
