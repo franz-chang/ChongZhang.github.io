@@ -37,6 +37,10 @@ and Multi-Agent Systems at the same time.
 
   **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Xi Yang, Xiao-Bo Jin
 
+- [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction]() (**ACML 2024**)
+  
+  Dong Shu, Tianle Chen, Mingyu Jin, **Chong Zhang**, Mengnan Du, Yongfeng Zhang
+
 - [Large Vision-Language Model Security: A Survey]() (**FCS 2024**) 
 
   Taowen Wang, Zheng Fang, Haochen Xue, **Chong Zhang**, Mingyu Jin, Wujiang Xu, Dong Shu, Shanchieh Yang, Zhenting Wang and Dongfang Liu
