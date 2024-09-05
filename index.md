@@ -43,7 +43,8 @@ and Multi-Agent Systems at the same time.
 
 - [Large Vision-Language Model Security: A Survey]() (**FCS 2024**) 
 
-  Taowen Wang, Zheng Fang, Haochen Xue, **Chong Zhang**, Mingyu Jin, Wujiang Xu, Dong Shu, Shanchieh Yang, Zhenting Wang and Dongfang Liu
+  Taowen Wang, Zheng Fang, Haochen Xue, **Chong Zhang**, Mingyu Jin, Wujiang Xu,
+  Dong Shu, Shanchieh Yang, Zhenting Wang and Dongfang Liu
 
 - [Multi-task Prompt Words Learning for Social Media Content Generation](https://www.researchgate.net/profile/Chong-Zhang-93/publication/378969295_Multi-task_Prompt_Words_Learning_for_Social_Media_Content_Generation/links/65f416921f0aec67e2900682/Multi-task-Prompt-Words-Learning-for-Social-Media-Content-Generation.pdf) (**IJCNN 2024**)
 
