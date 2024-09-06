@@ -15,6 +15,7 @@ and Multi-Agent Systems at the same time.
 - **Multi-Agent Systems**
 
 ## News
+- **[Sept. 2024]** Our paper **Goal-guided Generative Prompt Injection Attack on Large Language Models** is accepted to **ICDM 2024**.
 - **[Sept. 2024]** Our paper **Knowledge Graph Large Language Model (KG-LLM) for Link Prediction** is accepted to **ACML 2024**.
 - **[Aug. 2024]** Our paper **Accelerating Attentional Generative Adversarial Networks with Sampling Blocks**
   is accepted to **ICONIP 2024**.
@@ -33,6 +34,11 @@ and Multi-Agent Systems at the same time.
 - [Target-driven Attack for Large Language Models]()(**ECAI2024**)
 
   **Chong Zhang**🌟, Mingyu Jin🌟, Dong Shu, Taowen Wang, Xiao-Bo Jin
+  
+- [Goal-guided Generative Prompt Injection Attack on Large Language Models]() (**ICDM 2024**)
+
+  Chong Zhang, Mingyu Jin, Qinkai Yu, Chengzhi Liu, Haochen Xue, and Xiaobo Jin
+  
 - [Accelerating Attentional Generative Adversarial Networks with Sampling Blocks]() (**ICONIP 2024**)
 
   **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Xi Yang, Xiao-Bo Jin
