@@ -15,6 +15,7 @@ and Multi-Agent Systems at the same time.
 - **Multi-Agent Systems**
 
 ## News
+- **[Sept. 2024]** Our paper **Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning** is accepted to **ACCV 2024**.
 - **[Sept. 2024]** Our paper **Goal-guided Generative Prompt Injection Attack on Large Language Models** is accepted to **ICDM 2024**.
 - **[Sept. 2024]** Our paper **Knowledge Graph Large Language Model (KG-LLM) for Link Prediction** is accepted to **ACML 2024**.
 - **[Aug. 2024]** Our paper **Accelerating Attentional Generative Adversarial Networks with Sampling Blocks**
@@ -39,6 +40,10 @@ and Multi-Agent Systems at the same time.
 
   Chong Zhang, Mingyu Jin, Qinkai Yu, Chengzhi Liu, Haochen Xue, and Xiaobo Jin
   
+- [Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning]()(**ACCV 2024**)
+
+  **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Shreyank Gowda, Xiaobo Jin
+    
 - [Accelerating Attentional Generative Adversarial Networks with Sampling Blocks]() (**ICONIP 2024**)
 
   **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Xi Yang, Xiao-Bo Jin
