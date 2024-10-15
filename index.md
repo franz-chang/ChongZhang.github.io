@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University, Currently, I am working closely with Prof. Jia Wang, Xiaobo Jin, and Qiufeng Wang on LLM Safety and Transfer Learning. I'm working with Prof. Yongfeng Zhang and Prof. Mengnan Du on Explainability for LLM and Multi-Agent Systems at the same time. I thank my co-author, Mingyu Jin, for his leadership skills.
+I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University, Currently, I am working closely with Prof. Jia Wang, Xiaobo Jin, and Qiufeng Wang on LLM Safety and Transfer Learning. I'm working with Prof. Yongfeng Zhang and Prof. Mengnan Du on Explainability for LLM and Multi-Agent Systems at the same time. Special thanks to my co-author, Mingyu Jin, for his leadership skills.
 
 ## Research Interests
 
