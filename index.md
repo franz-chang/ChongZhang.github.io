@@ -75,6 +75,9 @@ I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University. Currently, I am w
 - [The 30th International Conference on Neural Information Processing](http://iconip2023.org/) 
 
 - [The 33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/)
+
+- [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/)
+  
 ### Journal Reviewers
 
 
