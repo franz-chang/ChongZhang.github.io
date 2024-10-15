@@ -9,7 +9,7 @@ I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University, Currently, I am w
 ## Research Interests
 
 - **Transfer Learning** 
-- **Large Language Models:** Explainability for LLM, LLM Safety
+- **Large Language Models:** LLM Safety, Explainability for LLM.
 - **Multi-Agent Systems**
 
 ## News
