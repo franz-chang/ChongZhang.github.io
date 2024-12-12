@@ -4,15 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University. Currently, I am working with Prof. Jia Wang, Xiaobo Jin, and Qiufeng Wang on LLM Safety and Transfer Learning. I'm working with Prof. Yongfeng Zhang and Prof. Mengnan Du on Explainability for LLM and Multi-Agent Systems at the same time. Special thanks to my co-author, Mingyu Jin, for his leadership skills.
+I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University & University of Liverpool. Currently, I am working with Prof. Jia Wang, Xiaobo Jin, and Qiufeng Wang on LLM Safety and Transfer Learning. I'm working simultaneously with Prof. Yongfeng Zhang and Prof. Mengnan Du on explainability for LLM and multi-agent systems and with Assistant Professor Lingyao Li on NLP and urban informatics. Special thanks to my co-author, Mingyu Jin, for his leadership skills.
 
 ## Research Interests
 
-- **Transfer Learning** 
 - **Large Language Models:** LLM Safety, Explainability for LLM.
 - **Multi-Agent Systems**
+- **Transfer Learning** 
 
 ## News
+- **[Dec. 2024]** Attend **ICDM 2024 (International Conference on Data Mining)** oral presentation on Section A6-1 about **Goal-guided Generative Prompt Injection Attack on Large Language Models**.
+- **[Dec. 2024]** Our paper **Time series forecasting with llms: Understanding and enhancing model capabilities** is accepted to **ACM SIGKDD Explorations Newsletter**, thanks to Mingyu Jin, Hua Tang, and Mengnan Du.
+- **[Nov. 2024]** Our paper **XAttack: Counterfactual Explainable Prompt Attack Analysis on Large Language Models** is accepted to **IEEE International Conference on Big Data workshop: Exploring Cutting-edge Data Mining**.
 - **[Sept. 2024]** Our paper **Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning** is accepted to **ACCV 2024**.
 - **[Sept. 2024]** Our paper **Goal-guided Generative Prompt Injection Attack on Large Language Models** is accepted to **ICDM 2024**.
 - **[Sept. 2024]** Our paper **Knowledge Graph Large Language Model (KG-LLM) for Link Prediction** is accepted to **ACML 2024**.
@@ -30,23 +33,27 @@ I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University. Currently, I am w
 
 ## Publication
 *🌟 means equal first author*
-- [Target-driven Attack for Large Language Models]()(**ECAI2024**)
+- [Target-driven Attack for Large Language Models (Oral)]()(**ECAI2024**)
 
   **Chong Zhang**🌟, Mingyu Jin🌟, Dong Shu, Taowen Wang, Xiao-Bo Jin
   
-- [Goal-guided Generative Prompt Injection Attack on Large Language Models]() (**ICDM 2024**)
+- [Goal-guided Generative Prompt Injection Attack on Large Language Models (Oral)]() (**ICDM 2024**)
 
   Chong Zhang, Mingyu Jin, Qinkai Yu, Chengzhi Liu, Haochen Xue, and Xiaobo Jin
   
-- [Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning]()(**ACCV 2024**)
+- [Bridging the Projection Gap: Overcoming Projection Bias Through Parameterized Distance Learning (Poster)]()(**ACCV 2024**)
 
   **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Shreyank Gowda, Xiaobo Jin
+
+- [Time series forecasting with llms: Understanding and enhancing model capabilities]() (**ACM SIGKDD Explorations**)
+  
+  Hua Tang🌟, **Chong Zhang**🌟, Mingyu Jin, Qinkai Yu, Zhenting Wang, Xiaobo Jin, Yongfeng Zhang, Mengnan Du.
     
-- [Accelerating Attentional Generative Adversarial Networks with Sampling Blocks]() (**ICONIP 2024**)
+- [Accelerating Attentional Generative Adversarial Networks with Sampling Blocks (Oral)]() (**ICONIP 2024**)
 
   **Chong Zhang**, Mingyu Jin, Qinkai Yu, Haochen Xue, Xi Yang, Xiao-Bo Jin
 
-- [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction]() (**ACML 2024**)
+- [Knowledge Graph Large Language Model (KG-LLM) for Link Prediction (Oral)]() (**ACML 2024**)
   
   Dong Shu, Tianle Chen, Mingyu Jin, **Chong Zhang**, Mengnan Du, Yongfeng Zhang
 
@@ -77,6 +84,10 @@ I am a Ph.D. student at Xi‘an Jiaotong-Liverpool University. Currently, I am w
 - [The 33rd International Conference on Artificial Neural Networks](https://e-nns.org/icann2024/)
 
 - [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/)
+
+- [2025 The Web Conference: web4good](https://www2025.thewebconf.org/web4good)
+
+- [2025 International Joint Conference on Neural Networks(IJCNN)](https://2025.ijcnn.org/)
   
 ### Journal Reviewers
 
